@@ -1,0 +1,51 @@
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.AssemblyInfo.cs
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Infraestructure\bin\Debug\net8.0\VideoGame.Infraestructure.deps.json
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Infraestructure\bin\Debug\net8.0\VideoGame.Infraestructure.runtimeconfig.json
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Infraestructure\bin\Debug\net8.0\VideoGame.Infraestructure.dll
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Infraestructure\bin\Debug\net8.0\VideoGame.Infraestructure.pdb
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Infraestructure\bin\Debug\net8.0\VideoGame.Domain.dll
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Infraestructure\bin\Debug\net8.0\VideoGame.Domain.pdb
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGam.61CA4442.Up2Date
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.dll
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Infraestructure\obj\Debug\net8.0\refint\VideoGame.Infraestructure.dll
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.pdb
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.genruntimeconfig.cache
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Infraestructure\obj\Debug\net8.0\ref\VideoGame.Infraestructure.dll
+D:\VideoGame P2\VideoGame.Infraestructure\bin\Debug\net8.0\VideoGame.Infraestructure.deps.json
+D:\VideoGame P2\VideoGame.Infraestructure\bin\Debug\net8.0\VideoGame.Infraestructure.runtimeconfig.json
+D:\VideoGame P2\VideoGame.Infraestructure\bin\Debug\net8.0\VideoGame.Infraestructure.dll
+D:\VideoGame P2\VideoGame.Infraestructure\bin\Debug\net8.0\VideoGame.Infraestructure.pdb
+D:\VideoGame P2\VideoGame.Infraestructure\bin\Debug\net8.0\VideoGame.Domain.dll
+D:\VideoGame P2\VideoGame.Infraestructure\bin\Debug\net8.0\VideoGame.Domain.pdb
+D:\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.csproj.AssemblyReference.cache
+D:\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.AssemblyInfoInputs.cache
+D:\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.AssemblyInfo.cs
+D:\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.csproj.CoreCompileInputs.cache
+D:\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGam.61CA4442.Up2Date
+D:\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.dll
+D:\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\refint\VideoGame.Infraestructure.dll
+D:\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.pdb
+D:\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.genruntimeconfig.cache
+D:\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\ref\VideoGame.Infraestructure.dll
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Infraestructure\bin\Debug\net8.0\VideoGame.Infraestructure.deps.json
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Infraestructure\bin\Debug\net8.0\VideoGame.Infraestructure.runtimeconfig.json
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Infraestructure\bin\Debug\net8.0\VideoGame.Infraestructure.dll
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Infraestructure\bin\Debug\net8.0\VideoGame.Infraestructure.pdb
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Infraestructure\bin\Debug\net8.0\VideoGame.Domain.dll
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Infraestructure\bin\Debug\net8.0\VideoGame.Domain.pdb
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.AssemblyInfo.cs
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGam.61CA4442.Up2Date
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.dll
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\refint\VideoGame.Infraestructure.dll
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.pdb
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\VideoGame.Infraestructure.genruntimeconfig.cache
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Infraestructure\obj\Debug\net8.0\ref\VideoGame.Infraestructure.dll
