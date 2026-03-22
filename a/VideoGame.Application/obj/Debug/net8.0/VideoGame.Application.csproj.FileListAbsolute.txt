@@ -1,0 +1,17 @@
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Application\bin\Debug\net8.0\VideoGame.Application.deps.json
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Application\bin\Debug\net8.0\VideoGame.Application.dll
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Application\bin\Debug\net8.0\VideoGame.Application.pdb
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Application\bin\Debug\net8.0\VideoGame.Domain.dll
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Application\bin\Debug\net8.0\VideoGame.Infraestructure.dll
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Application\bin\Debug\net8.0\VideoGame.Domain.pdb
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Application\bin\Debug\net8.0\VideoGame.Infraestructure.pdb
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Application\obj\Debug\net8.0\VideoGame.Application.csproj.AssemblyReference.cache
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Application\obj\Debug\net8.0\VideoGame.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Application\obj\Debug\net8.0\VideoGame.Application.AssemblyInfoInputs.cache
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Application\obj\Debug\net8.0\VideoGame.Application.AssemblyInfo.cs
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Application\obj\Debug\net8.0\VideoGame.Application.csproj.CoreCompileInputs.cache
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Application\obj\Debug\net8.0\VideoGam.2A117AAF.Up2Date
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Application\obj\Debug\net8.0\VideoGame.Application.dll
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Application\obj\Debug\net8.0\refint\VideoGame.Application.dll
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Application\obj\Debug\net8.0\VideoGame.Application.pdb
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Application\obj\Debug\net8.0\ref\VideoGame.Application.dll
