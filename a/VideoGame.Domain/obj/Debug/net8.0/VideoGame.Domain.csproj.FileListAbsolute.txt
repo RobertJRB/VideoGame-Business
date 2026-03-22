@@ -1,0 +1,33 @@
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Domain\bin\Debug\net8.0\VideoGame.Domain.deps.json
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Domain\bin\Debug\net8.0\VideoGame.Domain.dll
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Domain\bin\Debug\net8.0\VideoGame.Domain.pdb
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Domain\obj\Debug\net8.0\VideoGame.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Domain\obj\Debug\net8.0\VideoGame.Domain.AssemblyInfoInputs.cache
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Domain\obj\Debug\net8.0\VideoGame.Domain.AssemblyInfo.cs
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Domain\obj\Debug\net8.0\VideoGame.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Domain\obj\Debug\net8.0\VideoGame.Domain.dll
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Domain\obj\Debug\net8.0\refint\VideoGame.Domain.dll
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Domain\obj\Debug\net8.0\VideoGame.Domain.pdb
+C:\Users\yoanb\source\repos\VideoGameSolution\VideoGame.Domain\obj\Debug\net8.0\ref\VideoGame.Domain.dll
+D:\VideoGame P2\VideoGame.Domain\bin\Debug\net8.0\VideoGame.Domain.deps.json
+D:\VideoGame P2\VideoGame.Domain\bin\Debug\net8.0\VideoGame.Domain.dll
+D:\VideoGame P2\VideoGame.Domain\bin\Debug\net8.0\VideoGame.Domain.pdb
+D:\VideoGame P2\VideoGame.Domain\obj\Debug\net8.0\VideoGame.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\VideoGame P2\VideoGame.Domain\obj\Debug\net8.0\VideoGame.Domain.AssemblyInfoInputs.cache
+D:\VideoGame P2\VideoGame.Domain\obj\Debug\net8.0\VideoGame.Domain.AssemblyInfo.cs
+D:\VideoGame P2\VideoGame.Domain\obj\Debug\net8.0\VideoGame.Domain.csproj.CoreCompileInputs.cache
+D:\VideoGame P2\VideoGame.Domain\obj\Debug\net8.0\VideoGame.Domain.dll
+D:\VideoGame P2\VideoGame.Domain\obj\Debug\net8.0\refint\VideoGame.Domain.dll
+D:\VideoGame P2\VideoGame.Domain\obj\Debug\net8.0\VideoGame.Domain.pdb
+D:\VideoGame P2\VideoGame.Domain\obj\Debug\net8.0\ref\VideoGame.Domain.dll
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Domain\bin\Debug\net8.0\VideoGame.Domain.deps.json
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Domain\bin\Debug\net8.0\VideoGame.Domain.dll
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Domain\bin\Debug\net8.0\VideoGame.Domain.pdb
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Domain\obj\Debug\net8.0\VideoGame.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Domain\obj\Debug\net8.0\VideoGame.Domain.AssemblyInfoInputs.cache
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Domain\obj\Debug\net8.0\VideoGame.Domain.AssemblyInfo.cs
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Domain\obj\Debug\net8.0\VideoGame.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Domain\obj\Debug\net8.0\VideoGame.Domain.dll
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Domain\obj\Debug\net8.0\refint\VideoGame.Domain.dll
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Domain\obj\Debug\net8.0\VideoGame.Domain.pdb
+C:\Users\elyoa\Downloads\ESD-USB\VideoGame P2\VideoGame.Domain\obj\Debug\net8.0\ref\VideoGame.Domain.dll
